@@ -25,9 +25,8 @@
   - 回帰型ニューラルネットワーク / 注意機構（Attention） / 注意機構の計算 / トランスフォーマー（Transformer） / BERT / GPT（Generative Pretrained Transformer）
 - [第7章 APIを使ったAI開発](chapter7/README.md)
   - OpenAI APIの利用 / テキスト生成API（Completion API） / OpenAI APIの料金 / テキスト生成APIに指定するパラメータ / テキスト生成APIと外部ツールの連携～Function Calling / 埋め込みベクトル生成APIと規約違反チェックAPI / OpenAI以外の大規模言語モデルAPIサービス / Retrieval Augmented Generation（RAG）
-- 第8章 大規模言語モデルの影響
+- [第8章 大規模言語モデルの影響](chapter8/README.md)
   - 生成AIのリスクとセキュリティ / AIの偏りとアライメント / ハルシネーション（幻覚） / AIの民主化 / 大規模言語モデルの多言語対応 / AIと哲学
-  - 準備中
 
 ## FAQ（よくあるかもしれない質問）
 
